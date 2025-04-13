@@ -1,0 +1,5 @@
+firewalld
+mariadb-server
+httpd
+php
+php-mysqlnd
